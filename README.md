@@ -1,9 +1,11 @@
+![My Logo](resources/ai-logo-01.jpg)
+
 # Hello there! 👋
 
 ### My name is Blinkov Vladimir,
 I'm Golang newbie developer with a passion for building innovative solutions. 
 
-![Golang Gopher](gf9fCxPviNk60oD0eONPkw2MZ9603JcZ.png)
+![Golang Gopher](resources/gopher-ninja-crop.png)
 > As an undergraduate student, I'm constantly learning and expanding my skills in various areas of technology.
 
 ### **About Me**
