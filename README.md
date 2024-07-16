@@ -2,7 +2,7 @@
 
 # Hello there! 👋
 
-### My name is Blinkov Vladimir,
+### My name is Vladimir Blinkov, and
 I'm Golang newbie developer with a passion for building innovative solutions. 
 
 ![Golang Gopher](resources/gopher-ninja-crop.png)
