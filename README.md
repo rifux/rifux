@@ -10,7 +10,7 @@ I'm Golang newbie developer with a passion for building innovative solutions.
 
 - **Golang Developer**: I'm dedicated to mastering Golang and using it to create efficient and scalable solutions.
 - **Big Data Specialist**: I'm currently learning the ins and outs of big data analytics to help businesses make data-driven decisions.
-- **Linux Enthusiast**: I'm excited to dive into the world of Linux. In my free time, I enjoy building and adapting kernels, Android ROMs; polish my operating system skills and so on.
+- **Linux Enthusiast**: I'm excited to dive into the world of Linux. In my free time, I enjoy building and adapting kernels, Android ROMs; polishing my operating system skills and so on.
 
 ### **Skills**
 
