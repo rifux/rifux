@@ -16,7 +16,7 @@ I'm Golang newbie developer with a passion for building innovative solutions.
 
 ### **Skills**
 
-- **Programming Languages**: Golang, Python, C++, SQL, HTML, CSS, JS (JSON, XML)
+- **Languages**: Golang, Python, C++, SQL, HTML, CSS, JS
 - **Data Analytics**: Big Data, Business Analytics, Data Visualization
 <!-- - **Mobile Development**: Android ROM Building, Custom ROMs -->
 
