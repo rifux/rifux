@@ -35,5 +35,5 @@ I'm Golang newbie developer with a passion for building innovative solutions.
 
 Feel free to reach out to me for collaborations, discussions, or just to chat about the latest tech trends. I'm always looking to learn from others and share my own knowledge 🤩
 
-![codewars](https://github.r2v.ch/codewars?user=rifux&name=false&theme=purple_dark&hide_clan=true)
+![codewars](https://github.r2v.ch/codewars?user=rifux&name=false&theme=purple_dark&hide_clan=true&top_languages=true))
             
